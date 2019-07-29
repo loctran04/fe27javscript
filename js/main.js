@@ -3,9 +3,8 @@
   -- Them Nhan Vien
 */
 function themNguoiDung(){
-  console.log("them ng dung");
+  console.log("them nguoi dung loctran2");
 }
-
 var mangNhanVien = [];
 var validation = new Validation();
 var jsonData = localStorage.getItem("DSNV");
